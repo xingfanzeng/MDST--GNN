@@ -1,2 +1,2 @@
 # MDST--GNN
-PLEASE open the codespace named "sturdy goldfish" to check the code of our model.
+PLEASE change the file name "run"  extension to ".sh", and other files to ".py".
